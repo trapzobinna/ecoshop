@@ -415,6 +415,7 @@ body{
 }
 .popprod{
     height: 1000px;
+    width: 100vw;
     border: 2px solid red;
     position: relative;
 }
